@@ -1,2 +1,3 @@
 tekst proba
 proba1
+proba2 graf
